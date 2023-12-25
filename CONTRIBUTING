@@ -1,0 +1,60 @@
+# Contributing to [ragulm_10_sic]
+
+Thank you for considering contributing to [Your Project Name]! This document outlines some guidelines to help you get started.
+
+## Table of Contents
+
+- [Reporting Bugs](#reporting-bugs)
+- [Submitting Feature Requests](#submitting-feature-requests)
+- [Code Contribution Guidelines](#code-contribution-guidelines)
+  - [Branching](#branching)
+  - [Coding Standards](#coding-standards)
+  - [Pull Requests](#pull-requests)
+
+## Reporting Bugs
+
+If you encounter a bug in [Your Project Name], please follow these steps to report it:
+
+1. **Search for Existing Issues:**
+   Check the [issue tracker](https://github.com/your-username/your-repo/issues) to see if the bug has already been reported.
+
+2. **Create a New Issue:**
+   If the bug is not already reported, [create a new issue](https://github.com/your-username/your-repo/issues/new) and provide the following information:
+   - A clear and descriptive title.
+   - A detailed description of the bug, including steps to reproduce.
+   - Information about your environment (e.g., operating system, browser version).
+
+## Submitting Feature Requests
+
+If you have an idea for a new feature or enhancement, please follow these steps:
+
+1. **Search for Existing Requests:**
+   Check the [issue tracker](https://github.com/your-username/your-repo/issues) to see if the feature has already been requested.
+
+2. **Create a New Issue:**
+   If the feature is not already requested, [create a new issue](https://github.com/your-username/your-repo/issues/new) and provide the following information:
+   - A clear and descriptive title.
+   - A detailed description of the feature, including use cases and benefits.
+
+## Code Contribution Guidelines
+
+### Branching
+
+- Create a feature branch for your changes: `git checkout -b feature-branch-name`.
+- Make your changes and commit them with clear and concise messages.
+- Push your branch to the repository: `git push origin feature-branch-name`.
+- Submit a pull request against the `main` branch.
+
+### Coding Standards
+
+- Follow the coding style used in the project.
+- Document your code as necessary.
+- Write clear commit messages.
+
+### Pull Requests
+
+- Provide a clear title and description for your pull request.
+- Reference any related issues.
+- Ensure that your branch is up-to-date with the `main` branch before creating a pull request.
+
+Thank you for contributing to [ragulm_10_sic]!
